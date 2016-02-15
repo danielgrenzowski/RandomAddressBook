@@ -10,11 +10,9 @@ This app is built for iOS 8.0 or later.
 `git clone https://github.com/danielgrenzowski/RandomAddressBook.git`
 
 ## Tests
-1. _testAsynchronousFetchForJSONFromRandomUserGeneratorAPI_
-Tests the Random User Generator API for a random JSON object
+1. _testAsynchronousFetchForJSONFromRandomUserGeneratorAPI_ - Tests the Random User Generator API for a random JSON object
 
-2. _testAsynchronousFetchForImageFromRandomUserGeneratorAPI_
-Tests the Random User Generator API for an image object
+2. _testAsynchronousFetchForImageFromRandomUserGeneratorAPI_ - Tests the Random User Generator API for an image object
 
 ## License
 Created by Daniel Grenzowski
